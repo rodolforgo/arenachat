@@ -1,7 +1,7 @@
 ### Arena Chat - Dragon Ball RPG
-# mIRC bot integrado com Twitch.tv chat
+# mIRC Bot integrado com Twitch.tv
 
-ArenaChat é um sistema de batalhas com a temática Dragon Ball via chat Twitch.
+ArenaChat é um sistema de batalhas com a temática Dragon Ball via chat Twitch e IRC (Internet Relay Chat).
 Foi desenvolvido utilizando mIRC scripting e integrado com a Twitch através do Twitch Chat OAuth.
 
 ~ Imagens:
